@@ -1,7 +1,6 @@
 # cs5234
 
 ## run simple algo
-"""
 ./run.sh GN.py
 
 ## run all algos
